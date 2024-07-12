@@ -42,6 +42,7 @@
     "lodash": "^4.17.19",
     "posix-getopt": "^1.2.0",
     "typhonjs-escomplex": "0.0.12",
-    "unixify": "^1.0.0"
+    "unixify": "^1.0.0",
+    "typescript": "^5.5.3"
   }
 }
